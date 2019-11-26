@@ -1,0 +1,2 @@
+1) Install the web driver for chrome of the desired version and indicate the path to it, driver = webdriver.Chrome ('E: \ Webdriver \ chromedriver').
+2) Go to the working directive of the project and run the test pytest test_email_login_profile.py -v
